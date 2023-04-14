@@ -7,7 +7,7 @@
 
 **Bu satır  _çok _ önemli**
 
-***Bu satır çok önemli*** `rgb(9, 105, 218)`
+***Bu satır çok önemli*** rgb(9, 105, 218)
 
 
 -Alıntılar için 

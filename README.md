@@ -7,7 +7,7 @@
 
 **Bu satır  _çok _ önemli**
 
-***Bu satır çok önemli*** rgb(9, 105, 218)
+***Bu satır çok önemli*** 
 
 
 -Alıntılar için 
@@ -15,11 +15,9 @@
 > Bu satır bir alıntıdır
 
 
-Basic Git kommutları için:
-```
-git status
-git add
-git commit
-```
+Bu satır ile link ekleyebilirsiniz [GitHub Pages](https://pages.github.com/).
+
+
+![Readme dosyasınıza herhangi bir resim dosyası eklemek için bu satırı kullanabilirsiniz.](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 

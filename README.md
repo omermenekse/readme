@@ -1,14 +1,25 @@
 # readme
-- Başlık seviyeleri
+- Text stilleri
 
-**H1-level heading**
- H2-level heading
+**Yıldızlar arası bold**
+*Yıldız arası italic*
+~~Hatalı text~~
+
+**Bu satır  _çok _ önemli**
+
+***Bu satır çok önemli*** `rgb(9, 105, 218)`
 
 
+-Alıntılar için 
+
+> Bu satır bir alıntıdır
 
 
-##    H2-level heading
-###   H3 third-level heading
-####  H4 third-level heading
-##### H5 third-level heading
-##### H6 third-level heading
+Basic Git kommutları için:
+```
+git status
+git add
+git commit
+```
+
+

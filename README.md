@@ -37,6 +37,6 @@ Bu satır ile link ekleyebilirsiniz [GitHub Pages](https://pages.github.com/).
      - İkinci liste elemanı
 
 -Görev bildiri check box
-- [x] Birinci stroy
+- [x] #Birinci stroy
 - [ ] İkinci stroy
 - [ ] Üçüncü stroy
